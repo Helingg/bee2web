@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cash/!svn/ver/386/b2web/grails-app/views/login
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cash/!svn/ver/394/b2web/grails-app/views/login/index.gsp
+END
+chpswd.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cash/!svn/ver/106/b2web/grails-app/views/login/chpswd.gsp
+END
+denied.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cash/!svn/ver/106/b2web/grails-app/views/login/denied.gsp
+END
+error.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cash/!svn/ver/106/b2web/grails-app/views/login/error.gsp
+END
+about.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cash/!svn/ver/368/b2web/grails-app/views/login/about.gsp
+END
+auth.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cash/!svn/ver/106/b2web/grails-app/views/login/auth.gsp
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cash/!svn/ver/389/b2web/grails-app/controllers/com/bssi
+END
+AddressTypeController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cash/!svn/ver/413/b2web/grails-app/controllers/com/bssi/AddressTypeController.groovy
+END
+ClientProviderController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cash/!svn/ver/307/b2web/grails-app/controllers/com/bssi/ClientProviderController.groovy
+END
+ProviderController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cash/!svn/ver/383/b2web/grails-app/controllers/com/bssi/ProviderController.groovy
+END
+ClientContactController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cash/!svn/ver/383/b2web/grails-app/controllers/com/bssi/ClientContactController.groovy
+END
+SendLogController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cash/!svn/ver/293/b2web/grails-app/controllers/com/bssi/SendLogController.groovy
+END
+BridgeController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cash/!svn/ver/413/b2web/grails-app/controllers/com/bssi/BridgeController.groovy
+END
+ProviderTypeController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cash/!svn/ver/371/b2web/grails-app/controllers/com/bssi/ProviderTypeController.groovy
+END
+ContactTypeController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cash/!svn/ver/413/b2web/grails-app/controllers/com/bssi/ContactTypeController.groovy
+END
+SegmentTemplateController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cash/!svn/ver/389/b2web/grails-app/controllers/com/bssi/SegmentTemplateController.groovy
+END
+HL7MessageController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cash/!svn/ver/182/b2web/grails-app/controllers/com/bssi/HL7MessageController.groovy
+END
+MappingRuleGroupController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cash/!svn/ver/350/b2web/grails-app/controllers/com/bssi/MappingRuleGroupController.groovy
+END
+CacheController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cash/!svn/ver/106/b2web/grails-app/controllers/com/bssi/CacheController.groovy
+END
+ApplicationController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cash/!svn/ver/388/b2web/grails-app/controllers/com/bssi/ApplicationController.groovy
+END
+FacilityController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cash/!svn/ver/297/b2web/grails-app/controllers/com/bssi/FacilityController.groovy
+END
+FacilityAddressController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cash/!svn/ver/249/b2web/grails-app/controllers/com/bssi/FacilityAddressController.groovy
+END
+ReportController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cash/!svn/ver/249/b2web/grails-app/controllers/com/bssi/ReportController.groovy
+END
+TemplateController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cash/!svn/ver/106/b2web/grails-app/controllers/com/bssi/TemplateController.groovy
+END
+ClientController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cash/!svn/ver/413/b2web/grails-app/controllers/com/bssi/ClientController.groovy
+END
+MessageTemplateController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cash/!svn/ver/389/b2web/grails-app/controllers/com/bssi/MessageTemplateController.groovy
+END
+MappingRuleController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cash/!svn/ver/406/b2web/grails-app/controllers/com/bssi/MappingRuleController.groovy
+END
+ClientAddressController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cash/!svn/ver/388/b2web/grails-app/controllers/com/bssi/ClientAddressController.groovy
+END
+ReceiveLogController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cash/!svn/ver/249/b2web/grails-app/controllers/com/bssi/ReceiveLogController.groovy
+END
+AddressController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cash/!svn/ver/307/b2web/grails-app/controllers/com/bssi/AddressController.groovy
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cash/!svn/ver/391/b2web/grails-app/views/mappingRule
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cash/!svn/ver/291/b2web/grails-app/views/mappingRule/list.gsp
+END
+createRules.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cash/!svn/ver/407/b2web/grails-app/views/mappingRule/createRules.gsp
+END
+selectMappingRuleGroup.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cash/!svn/ver/402/b2web/grails-app/views/mappingRule/selectMappingRuleGroup.gsp
+END
+scripting.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cash/!svn/ver/394/b2web/grails-app/views/mappingRule/scripting.gsp
+END

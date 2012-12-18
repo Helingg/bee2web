@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+.table{
+	width:1000px;
+	position:relative;
+}
+.number{
+	text-align:right;
+}
+.conent{
+	text-align:center;
+}
+.reason{
+	text-align:left;
+}
+
+.fontbig{
+	font-weight:bold;
+}
+.fontbig1{
+	font-weight:bold;
+	font-size:20px;
+}
+.fontbig2{
+	font-size:20px;
+}
+.button{
+    style-width:80px
+}
+a:link { color:#0000FF;text-decoration:underline; font-size:11px; }/* 超链接的样式 */
+a:visited { color:#0000FF;text-decoration:underline;font-size:11px; }
+a:visited:hover { color:#0000FF;text-decoration:underline; font-size:11px;}
+a:hover { color:#0000FF;text-decoration:underline; font-size:11px;}
+a:active { color:#0000FF;text-decoration:underline;font-size:11px; }
+.fonthlg{
+	font-size:5px;
+	
+}
+
+.dialog-content{
+    overflow:auto;
+}
+.dialog-toolbar{
+    background:#fafafa;
+    padding:2px 5px;
+    border-bottom:1px solid #eee;
+}
+.dialog-tool-separator{
+    float:left;
+    height:24px;
+    border-left:1px solid #ccc;
+    border-right:1px solid #fff;
+    margin:2px 1px;
+}
+.dialog-button{
+    border-top:1px solid #eee;
+    background:#fafafa;
+    padding:5px 5px;
+    text-align:right;
+}
+.dialog-button .l-btn{
+    margin-left:5px;
+}

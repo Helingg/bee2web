@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cash/!svn/ver/172/b2web/grails-app/domain/com/uit
+END
+User.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cash/!svn/ver/172/b2web/grails-app/domain/com/uit/User.groovy
+END
+UserRole.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/uit/UserRole.groovy
+END
+Role.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/uit/Role.groovy
+END

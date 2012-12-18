@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cash/!svn/ver/392/b2web/grails-app/views/messageTemplate
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/392/b2web/grails-app/views/messageTemplate/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/392/b2web/grails-app/views/messageTemplate/show.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cash/!svn/ver/392/b2web/grails-app/views/messageTemplate/_form.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cash/!svn/ver/392/b2web/grails-app/views/messageTemplate/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/392/b2web/grails-app/views/messageTemplate/edit.gsp
+END

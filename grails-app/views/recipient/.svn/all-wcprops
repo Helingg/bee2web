@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cash/!svn/ver/106/b2web/grails-app/views/recipient
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cash/!svn/ver/106/b2web/grails-app/views/recipient/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cash/!svn/ver/106/b2web/grails-app/views/recipient/show.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cash/!svn/ver/106/b2web/grails-app/views/recipient/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cash/!svn/ver/106/b2web/grails-app/views/recipient/edit.gsp
+END
+search.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cash/!svn/ver/106/b2web/grails-app/views/recipient/search.gsp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cash/!svn/ver/106/b2web/grails-app/views/HL7Message
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cash/!svn/ver/106/b2web/grails-app/views/HL7Message/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cash/!svn/ver/106/b2web/grails-app/views/HL7Message/show.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cash/!svn/ver/106/b2web/grails-app/views/HL7Message/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cash/!svn/ver/106/b2web/grails-app/views/HL7Message/edit.gsp
+END

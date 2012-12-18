@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cash/!svn/ver/385/b2web/grails-app/i18n
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cash/!svn/ver/385/b2web/grails-app/i18n/messages.properties
+END
+messages.spring-security-ui.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cash/!svn/ver/369/b2web/grails-app/i18n/messages.spring-security-ui.properties
+END
+messages_cs_CZ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/106/b2web/grails-app/i18n/messages_cs_CZ.properties
+END
+messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/106/b2web/grails-app/i18n/messages_zh_CN.properties
+END

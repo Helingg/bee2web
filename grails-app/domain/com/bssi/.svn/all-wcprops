@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cash/!svn/ver/390/b2web/grails-app/domain/com/bssi
+END
+SendLog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/SendLog.groovy
+END
+Bridge.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cash/!svn/ver/415/b2web/grails-app/domain/com/bssi/Bridge.groovy
+END
+ProviderType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cash/!svn/ver/358/b2web/grails-app/domain/com/bssi/ProviderType.groovy
+END
+ContactType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cash/!svn/ver/415/b2web/grails-app/domain/com/bssi/ContactType.groovy
+END
+SendReceiveLog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/SendReceiveLog.groovy
+END
+SegmentTemplate.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cash/!svn/ver/390/b2web/grails-app/domain/com/bssi/SegmentTemplate.groovy
+END
+HL7Message.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/HL7Message.groovy
+END
+MappingRuleGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cash/!svn/ver/292/b2web/grails-app/domain/com/bssi/MappingRuleGroup.groovy
+END
+Application.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cash/!svn/ver/318/b2web/grails-app/domain/com/bssi/Application.groovy
+END
+Cache.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/Cache.groovy
+END
+Facility.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/Facility.groovy
+END
+Patient.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/Patient.groovy
+END
+DestinationConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cash/!svn/ver/362/b2web/grails-app/domain/com/bssi/DestinationConfig.groovy
+END
+FacilityAddress.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cash/!svn/ver/343/b2web/grails-app/domain/com/bssi/FacilityAddress.groovy
+END
+Template.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cash/!svn/ver/227/b2web/grails-app/domain/com/bssi/Template.groovy
+END
+Client.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cash/!svn/ver/415/b2web/grails-app/domain/com/bssi/Client.groovy
+END
+MessageTemplate.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cash/!svn/ver/390/b2web/grails-app/domain/com/bssi/MessageTemplate.groovy
+END
+MappingRule.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cash/!svn/ver/325/b2web/grails-app/domain/com/bssi/MappingRule.groovy
+END
+ReceiveLog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/ReceiveLog.groovy
+END
+ClientAddress.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cash/!svn/ver/377/b2web/grails-app/domain/com/bssi/ClientAddress.groovy
+END
+Address.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/318/b2web/grails-app/domain/com/bssi/Address.groovy
+END
+SourceConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cash/!svn/ver/415/b2web/grails-app/domain/com/bssi/SourceConfig.groovy
+END
+AddressType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cash/!svn/ver/415/b2web/grails-app/domain/com/bssi/AddressType.groovy
+END
+StateMLN.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cash/!svn/ver/384/b2web/grails-app/domain/com/bssi/StateMLN.groovy
+END
+ClientProvider.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cash/!svn/ver/106/b2web/grails-app/domain/com/bssi/ClientProvider.groovy
+END
+Provider.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cash/!svn/ver/415/b2web/grails-app/domain/com/bssi/Provider.groovy
+END
+ClientContact.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cash/!svn/ver/343/b2web/grails-app/domain/com/bssi/ClientContact.groovy
+END

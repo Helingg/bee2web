@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cash/!svn/ver/391/b2web/grails-app/views/user
+END
+changePassword.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cash/!svn/ver/252/b2web/grails-app/views/user/changePassword.gsp
+END
+selectAuthority.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cash/!svn/ver/252/b2web/grails-app/views/user/selectAuthority.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cash/!svn/ver/391/b2web/grails-app/views/user/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cash/!svn/ver/386/b2web/grails-app/views/user/show.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cash/!svn/ver/168/b2web/grails-app/views/user/_form.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cash/!svn/ver/386/b2web/grails-app/views/user/create.gsp
+END
+editUser.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cash/!svn/ver/386/b2web/grails-app/views/user/editUser.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cash/!svn/ver/386/b2web/grails-app/views/user/edit.gsp
+END
